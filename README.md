@@ -28,7 +28,7 @@ pyyaml==6.0.1
 
 ## 致谢
 
-该项目建立在其他几个存储库的工作基础上。我们对以下项目的贡献表示感谢：
+该项目建立在其他几个存储库的工作基础上,非常感谢
 
 - [ReChorus](https://github.com/THUwangcy/ReChorus): 
 - [DiffRec](https://github.com/YiyanXu/DiffRec?tab=readme-ov-file):
